@@ -4,6 +4,7 @@
 #include "GenericRubiksCube.h"
 
 class RubiksCube3dArray : public RubiksCube {
+private:
     void rotateFace(int ind) {
         char temp_arr[3][3] = {};
         for (int i = 0; i < 3; i++) {
@@ -249,5 +250,4 @@ struct Hash3d {
         }
         return hash<string>()(str);
     }
-
 };
