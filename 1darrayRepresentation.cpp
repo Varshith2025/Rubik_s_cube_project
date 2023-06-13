@@ -109,7 +109,6 @@ public:
     RubiksCube &l2() override {
         this->l();
         this->l();
-
         return *this;
     }
 
