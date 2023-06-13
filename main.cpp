@@ -1,6 +1,8 @@
-#include <iostream>
-
+#include <bits/stdc++.h>
+using namespace std;
+using ll=long long;
+#define endl '\n'
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << '\n';
     return 0;
 }

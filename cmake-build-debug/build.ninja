@@ -61,6 +61,12 @@ build CMakeFiles/Rubik_s_cube_project.dir/GenericRubiksCube.cpp.obj: CXX_COMPILE
   OBJECT_DIR = CMakeFiles\Rubik_s_cube_project.dir
   OBJECT_FILE_DIR = CMakeFiles\Rubik_s_cube_project.dir
 
+build CMakeFiles/Rubik_s_cube_project.dir/3darrayRepresentation.cpp.obj: CXX_COMPILER__Rubik_s_cube_project_Debug C$:/Users/varshith/Desktop/Rubik's$ cube$ project/3darrayRepresentation.cpp || cmake_object_order_depends_target_Rubik_s_cube_project
+  DEP_FILE = CMakeFiles\Rubik_s_cube_project.dir\3darrayRepresentation.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Rubik_s_cube_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\Rubik_s_cube_project.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Rubik_s_cube_project
@@ -69,7 +75,7 @@ build CMakeFiles/Rubik_s_cube_project.dir/GenericRubiksCube.cpp.obj: CXX_COMPILE
 #############################################
 # Link the executable Rubik_s_cube_project.exe
 
-build Rubik_s_cube_project.exe: CXX_EXECUTABLE_LINKER__Rubik_s_cube_project_Debug CMakeFiles/Rubik_s_cube_project.dir/main.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/GenericRubiksCube.cpp.obj
+build Rubik_s_cube_project.exe: CXX_EXECUTABLE_LINKER__Rubik_s_cube_project_Debug CMakeFiles/Rubik_s_cube_project.dir/main.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/GenericRubiksCube.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/3darrayRepresentation.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Rubik_s_cube_project.dir
