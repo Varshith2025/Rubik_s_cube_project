@@ -1,0 +1,14 @@
+//
+// Created by varshith on 13-06-2023.
+//
+
+#ifndef RUBIK_S_CUBE_PROJECT_GENERICRUBIKSCUBE_H
+#define RUBIK_S_CUBE_PROJECT_GENERICRUBIKSCUBE_H
+
+
+class GenericRubiksCube {
+
+};
+
+
+#endif //RUBIK_S_CUBE_PROJECT_GENERICRUBIKSCUBE_H
