@@ -1,0 +1,3 @@
+C:/Users/varshith/Desktop/Rubik's cube project/cmake-build-debug/CMakeFiles/Rubik_s_cube_project.dir
+C:/Users/varshith/Desktop/Rubik's cube project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/varshith/Desktop/Rubik's cube project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
