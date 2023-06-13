@@ -1,6 +1,15 @@
 # ninja log v5
-15	2023	7083668954771014	CMakeFiles/Rubik_s_cube_project.dir/main.cpp.obj	dcec796073763e64
-3	1991	7083668954417133	CMakeFiles/Rubik_s_cube_project.dir/GenericRubiksCube.cpp.obj	2ca1e60572611850
-2023	2127	7083668955726150	Rubik_s_cube_project.exe	ab82dd9b09011061
-9	1999	7083668954530936	CMakeFiles/Rubik_s_cube_project.dir/3darrayRepresentation.cpp.obj	15d8dd89f6b18f0c
-20	1937	7083668953902755	CMakeFiles/Rubik_s_cube_project.dir/1darrayRepresentation.cpp.obj	f4ca03fc49565f47
+3	2370	7083679688861387	CMakeFiles/Rubik_s_cube_project.dir/main.cpp.obj	dcec796073763e64
+8	2482	7083679690010160	CMakeFiles/Rubik_s_cube_project.dir/GenericRubiksCube.cpp.obj	2ca1e60572611850
+2482	2625	7083679691340325	Rubik_s_cube_project.exe	57075015fac49d5b
+12	2340	7083679688511385	CMakeFiles/Rubik_s_cube_project.dir/3darrayRepresentation.cpp.obj	15d8dd89f6b18f0c
+0	143	7083693348265456	build.ninja	1de7a168ec753f48
+22	2301	7083679688191396	CMakeFiles/Rubik_s_cube_project.dir/1darrayRepresentation.cpp.obj	f4ca03fc49565f47
+17	2381	7083679688991411	CMakeFiles/Rubik_s_cube_project.dir/BitboardRepresentation.cpp.obj	fe282761185833ad
+1	257	7083693348265456	build.ninja	1de7a168ec753f48
+13	2527	7083693374701350	CMakeFiles/Rubik_s_cube_project.dir/Models/BitboardRepresentation.cpp.obj	c7e380ac504c9aca
+8	2533	7083693374681308	CMakeFiles/Rubik_s_cube_project.dir/Models/3darrayRepresentation.cpp.obj	3e72960446be8262
+4	2539	7083693374903452	CMakeFiles/Rubik_s_cube_project.dir/Models/1darrayRepresentation.cpp.obj	a70b1c2fcb4f7f54
+18	2546	7083693374938354	CMakeFiles/Rubik_s_cube_project.dir/main.cpp.obj	dcec796073763e64
+23	2642	7083693375943897	CMakeFiles/Rubik_s_cube_project.dir/Models/GenericRubiksCube.cpp.obj	ba7f86da23bf7e38
+2643	2829	7083693377752810	Rubik_s_cube_project.exe	9eef32f9f5e63509
