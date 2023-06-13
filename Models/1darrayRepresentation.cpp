@@ -11,8 +11,8 @@ private:
 public:
     char cube[54];
     RubiksCube1dArray() {
-        for (int i = 0; i < 53; i++) {
-            cube[i/9] = getColorLetter(COLOR(i/9));
+        for (int i = 0; i < 54; i++) {
+            cube[i] = getColorLetter(COLOR(i/9));
         }
     }
 
