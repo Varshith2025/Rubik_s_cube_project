@@ -1,10 +1,9 @@
 #include <bits/stdc++.h>
-#include "Models/BitboardRepresentation.cpp"
+#include "Models/1darrayRepresentation.cpp"
 using namespace std;
 using ll=long long;
 #define endl '\n'
 int main() {
-    RubiksCubeBitboard objcube;
-    objcube.print();
+    cout<<"Hello World\n";
     return 0;
 }
