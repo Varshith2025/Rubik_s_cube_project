@@ -122,7 +122,10 @@ public:
      */
     RubiksCube &move(MOVE ind);
 
-
+    /*
+     * Invert a move
+     */
+    RubiksCube &invert(MOVE ind);
     /*
      * Rotational Moves on the Rubik's Cubes
      *

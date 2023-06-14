@@ -79,6 +79,36 @@ build CMakeFiles/Rubik_s_cube_project.dir/Models/BitboardRepresentation.cpp.obj:
   OBJECT_DIR = CMakeFiles\Rubik_s_cube_project.dir
   OBJECT_FILE_DIR = CMakeFiles\Rubik_s_cube_project.dir\Models
 
+build CMakeFiles/Rubik_s_cube_project.dir/PatternDatabases/CornerDBMaker.cpp.obj: CXX_COMPILER__Rubik_s_cube_project_Debug C$:/Users/varshith/Desktop/Rubik's$ cube$ project/PatternDatabases/CornerDBMaker.cpp || cmake_object_order_depends_target_Rubik_s_cube_project
+  DEP_FILE = CMakeFiles\Rubik_s_cube_project.dir\PatternDatabases\CornerDBMaker.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Rubik_s_cube_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\Rubik_s_cube_project.dir\PatternDatabases
+
+build CMakeFiles/Rubik_s_cube_project.dir/PatternDatabases/CornerPatternDatabase.cpp.obj: CXX_COMPILER__Rubik_s_cube_project_Debug C$:/Users/varshith/Desktop/Rubik's$ cube$ project/PatternDatabases/CornerPatternDatabase.cpp || cmake_object_order_depends_target_Rubik_s_cube_project
+  DEP_FILE = CMakeFiles\Rubik_s_cube_project.dir\PatternDatabases\CornerPatternDatabase.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Rubik_s_cube_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\Rubik_s_cube_project.dir\PatternDatabases
+
+build CMakeFiles/Rubik_s_cube_project.dir/PatternDatabases/NibbleArray.cpp.obj: CXX_COMPILER__Rubik_s_cube_project_Debug C$:/Users/varshith/Desktop/Rubik's$ cube$ project/PatternDatabases/NibbleArray.cpp || cmake_object_order_depends_target_Rubik_s_cube_project
+  DEP_FILE = CMakeFiles\Rubik_s_cube_project.dir\PatternDatabases\NibbleArray.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Rubik_s_cube_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\Rubik_s_cube_project.dir\PatternDatabases
+
+build CMakeFiles/Rubik_s_cube_project.dir/PatternDatabases/PatternDatabase.cpp.obj: CXX_COMPILER__Rubik_s_cube_project_Debug C$:/Users/varshith/Desktop/Rubik's$ cube$ project/PatternDatabases/PatternDatabase.cpp || cmake_object_order_depends_target_Rubik_s_cube_project
+  DEP_FILE = CMakeFiles\Rubik_s_cube_project.dir\PatternDatabases\PatternDatabase.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Rubik_s_cube_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\Rubik_s_cube_project.dir\PatternDatabases
+
+build CMakeFiles/Rubik_s_cube_project.dir/PatternDatabases/math.cpp.obj: CXX_COMPILER__Rubik_s_cube_project_Debug C$:/Users/varshith/Desktop/Rubik's$ cube$ project/PatternDatabases/math.cpp || cmake_object_order_depends_target_Rubik_s_cube_project
+  DEP_FILE = CMakeFiles\Rubik_s_cube_project.dir\PatternDatabases\math.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Rubik_s_cube_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\Rubik_s_cube_project.dir\PatternDatabases
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Rubik_s_cube_project
@@ -87,7 +117,7 @@ build CMakeFiles/Rubik_s_cube_project.dir/Models/BitboardRepresentation.cpp.obj:
 #############################################
 # Link the executable Rubik_s_cube_project.exe
 
-build Rubik_s_cube_project.exe: CXX_EXECUTABLE_LINKER__Rubik_s_cube_project_Debug CMakeFiles/Rubik_s_cube_project.dir/main.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/Models/GenericRubiksCube.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/Models/3darrayRepresentation.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/Models/1darrayRepresentation.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/Models/BitboardRepresentation.cpp.obj
+build Rubik_s_cube_project.exe: CXX_EXECUTABLE_LINKER__Rubik_s_cube_project_Debug CMakeFiles/Rubik_s_cube_project.dir/main.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/Models/GenericRubiksCube.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/Models/3darrayRepresentation.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/Models/1darrayRepresentation.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/Models/BitboardRepresentation.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/PatternDatabases/CornerDBMaker.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/PatternDatabases/CornerPatternDatabase.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/PatternDatabases/NibbleArray.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/PatternDatabases/PatternDatabase.cpp.obj CMakeFiles/Rubik_s_cube_project.dir/PatternDatabases/math.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Rubik_s_cube_project.dir
